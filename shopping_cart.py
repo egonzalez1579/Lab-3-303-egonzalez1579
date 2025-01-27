@@ -13,6 +13,7 @@ def main():
     cart = []  #List to store the items in the shopping cart.
     print("Welcome to the shopping cart program!")
 
+    #Loop
     while True:
         try:
             # Input details for the product.
